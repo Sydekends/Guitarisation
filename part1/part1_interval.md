@@ -102,9 +102,13 @@ et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
 La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart pour que les accords majeurs/mineurs standards tombent sous les doigts pour faciliter le travail de la main gauche
 
-![](../X.mindfuck.excalidraw.svg)
+![](X.mindfuck.excalidraw.svg)
 
 > Voir les [exos](../exercices/1/1.6.EXO.excalidraw.svg)
+
+
+
+![](X.adjacent.geometry.excalidraw.svg)
 
 ## La Gamme Majeure
 
