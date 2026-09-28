@@ -28,7 +28,7 @@ Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V),
 ### L'accord de puissance / Power chord
 Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
 
-[<img src="3.0.powerchords.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.0.powerchords.excalidraw.svg)
+![](3.0.powerchords.excalidraw.svg)
 
 ### Triades
 
@@ -38,15 +38,15 @@ Les triades sont les accords les plus communs dans la musique, il faut se famili
 - Minor       : 1 b3 5
     - Diminished  : 1 b3 b5
 
-[<img src="3.1.0.triad.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.0.triad.excalidraw.svg)
+![](3.1.0.triad.excalidraw.svg)
 
 Voici ce que ca donne sur 3 cordes.
 
-[<img src="3.1.2.triad.threestrings.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.2.triad.threestrings.excalidraw.svg)
+![](3.1.2.triad.threestrings.excalidraw.svg)
 
 #### Former des arpèges
 
-[<img src="3.1.1.triad.arpegio.excalidraw.svg">](https://raw.githubusercontent.com/Sydekends/excalidraw/refs/heads/main/3.1.1.triad.arpegio.excalidraw.svg)
+![](3.1.1.triad.arpegio.excalidraw.svg)
 
 # Les fonctions des degrés de la gamme majeure.
 > TODO

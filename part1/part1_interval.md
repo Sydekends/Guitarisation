@@ -146,3 +146,7 @@ Dans la gamme majeure, le triton est present comme :
 
 **#4** du 4eme degré "**IV**"   
 **b5** du 7eme degré "**vii**" => On le note **vii°**
+
+---
+
+[Next](../part2/readme_tonality.md)
