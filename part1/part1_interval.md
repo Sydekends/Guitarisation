@@ -1,3 +1,23 @@
+
+- [Intervalle](#intervalle)
+- [Gammes](#gammes)
+    - [intervalle en detail](#intervalle-en-detail)
+    - [Unison](#unison)
+    - [L'octave](#loctave)
+    - [Le triton](#le-triton)
+    - [La quarte juste | Perfect Fourth](#la-quarte-juste--perfect-fourth)
+    - [La quinte juste | Perfect Fifth](#la-quinte-juste--perfect-fifth)
+    - [Les tierces | Third](#les-tierces--third)
+- [L'accordage de la guitare](#laccordage-de-la-guitare)
+    - [Comment accorder sa guitare](#comment-accorder-sa-guitare)
+    - [L'accordage est en quarte sauf](#laccordage-est-en-quarte-sauf)
+- [La Gamme Majeure](#la-gamme-majeure)
+    - [Tierces](#tierces)
+    - [La quarte](#la-quarte)
+    - [la quinte](#la-quinte)
+    - [Triton](#triton)
+
+
 ## Intervalle
 
 Un intervalle est la différence de hauteur entre deux notes — en d’autres termes, la distance qui les sépare. Ce sont les intervalles qui donnent leur forme aux mélodies et leur sonorité aux accords.
