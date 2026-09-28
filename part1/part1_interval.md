@@ -7,15 +7,15 @@ Par exemple, l’intervalle entre le do et le mi s’appelle une tierce majeure.
 
 Les intervalles se mesurent en demi-tons : la plus petite distance entre deux notes sur un piano. Un demi-ton correspond à la distance entre une touche et la suivante (noire ou blanche). Deux demi-tons forment un ton.
 
-![](0.0.interval.excalidraw.svg)
+![](intervals/intervals.excalidraw.svg)
 
-![](0.1.notes.excalidraw.svg)
+![](notes/notes.excalidraw.svg)
 
 > Une guitare, c'est comme si plusieurs pianos etaient empilés, mais les cordes ne mettent pas en evidence les touches noires.
 
 Voici comment poser les notes sur la guitare
 
-![](0.2.piano_on_guitar.excalidraw.svg)
+![](notes/piano_on_guitar.excalidraw.svg)
 
 ## Gammes
 
@@ -26,10 +26,10 @@ Les gammes sont des ensembles de notes qui constituent la base des mélodies et 
 
 Vous trouverez ci-dessous la gamme de do majeur, sur laquelle est indiqué le nombre de demi-tons entre chaque note. Ces intervalles définissent la structure de la gamme. Au piano, on obtient cette gamme en jouant uniquement les touches blanches : la plupart des notes sont séparées par deux demi-tons (un ton entier) et quelques-unes ne sont séparées que par un demi-ton.
 
-![](1.0.scales.excalidraw.svg)
-![](1.1.scales.excalidraw.svg)
-![](1.2.scales.excalidraw.svg)
-![](1.3.scales.excalidraw.svg)
+![](major_scale/1.0.scales.excalidraw.svg)
+![](major_scale/1.1.scales.excalidraw.svg)
+![](major_scale/1.2.scales.excalidraw.svg)
+![](major_scale/1.3.scales.excalidraw.svg)
 
 On peut aussi voir plus bas les gammes de Fa et de Re majeur. Elles utilisent le même schéma d’intervalles que la gamme de do majeur, mais commencent sur une note différente.
 Pour conserver le même son (c’est-à-dire le même espacement entre les notes), elles comprennent des notes altérées : (Xb)(X#)
@@ -40,13 +40,13 @@ Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 
 ### Unison
 
-![](2.0.0th.excalidraw.svg)
+![](intervals/1.unison/0th.excalidraw.svg)
 > Pas de prise de tete, spammer la meme note en boucle, c'est spammer nos oreilles d'unisons
 
 ### L'octave
 Un octave c'est 6 tons  / 12 demi-tons
 
-![](2.0.8th.excalidraw.svg)
+![](intervals/0.octave/8th.excalidraw.svg)
 
 ### Le triton
 > `Triton` = `Quarte augmentée` = `Quinte diminuée`
@@ -55,7 +55,7 @@ Comme son nom l'indique, le triton est un intervalle de 3 tons (6 demi-tons)
 il possede une sonoritée dissonante
 
 
-![](2.1.5thb.tritone.excalidraw.svg)
+![](intervals/tritone/tritone.excalidraw.svg)
 
 > ⚠️ Info incroyable pour se repérer sur le manche.
 >       C'est exactement la moitié d'un octave.
@@ -77,11 +77,11 @@ La guitare est un instrument accordé en quarte. E A D G
 > Sauf pour la corde de SI(B)
 > Elle est accordé d'une tierce majeure par rapport à la corde de SOL(G)
 
-![](2.0.4th.excalidraw.svg)
+![](intervals/4.fourth/4th.excalidraw.svg)
 
 ### La quinte juste | Perfect Fifth
 
-![](2.1.5th.excalidraw.svg)
+![](intervals/5.fifth/5th.excalidraw.svg)
 
 ### Les tierces | Third
 
@@ -89,12 +89,12 @@ On appelle "tierce" 2 intervalles differents.
 On trouve la tierce majeure : 3 | C'est un intervalle de 2 ton. (4 demi-tons)
 et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
-![](2.1.3rd.excalidraw.svg)
+![](intervals/3.third/3rd.excalidraw.svg)
 
 ## L'accordage de la guitare 
 
 ### Comment accorder sa guitare 
-![](2.0.0.tuning.excalidraw.svg)
+![](tuning/tuning.excalidraw.svg)
 
 ### L'accordage est en quarte sauf 
 
@@ -102,13 +102,13 @@ et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
 La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart pour que les accords majeurs/mineurs standards tombent sous les doigts pour faciliter le travail de la main gauche
 
-![](X.mindfuck.excalidraw.svg)
+![](tuning/mindfuck.excalidraw.svg)
 
 > Voir les [exos](../exercices/1/1.6.EXO.excalidraw.svg)
 
 
 
-![](X.adjacent.geometry.excalidraw.svg)
+![](tuning/adjacent.geometry.excalidraw.svg)
 
 ## La Gamme Majeure
 
@@ -118,7 +118,7 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 
 ### Tierces
 
-![](2.1.3rd.majorscale.excalidraw.svg)
+![](major_scale/3rd.majorscale.excalidraw.svg)
 
 > Dans la gamme majeure naturelle :
 >   - Les degrés I, IV et V sont majeurs
@@ -127,14 +127,14 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 > Voir les [exos](../exercices/2/2.exo.md#Tierces)
 ### La quarte
 
-![](2.0.4th.majorscale.excalidraw.svg)
+![](major_scale/4th.majorscale.excalidraw.svg)
 
 > On peux voir avec ce schema que dans la gamme majeure naturelle, le 4eme degré (IV) possede une quarte augmentée.
 
 > Voir les [exos](../exercices/2/2.exo.md#Quartes)
 ### La quinte
 
-![](2.1.5th.majorscale.excalidraw.svg)
+![](major_scale/5th.majorscale.excalidraw.svg)
 
 > On peux voir avec ce schema que dans la gamme majeure naturelle, le 7eme degré (vii) possede une quinte diminuée.
 > On note donc ce degré vii° => pour "diminué"
