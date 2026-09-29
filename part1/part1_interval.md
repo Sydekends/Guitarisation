@@ -105,6 +105,8 @@ et la     la tierce mineure : 3 | C'est un intervelle de 1.5 tons. (3 demi-tons)
 
 ![](intervals/3.third/3rd.excalidraw.svg)
 
+![](intervals/3.third/3rd.recap.excalidraw.svg)
+
 ## L'accordage de la guitare 
 
 ### Comment accorder sa guitare 
@@ -120,7 +122,7 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 > Voir les [exos](../exercices/1/1.6.EXO.excalidraw.svg)
 
-![](tuning/adjacent.geometry.excalidraw.svg)
+![](adjacent.geometry.excalidraw.svg)
 
 ## La Gamme Majeure
 
