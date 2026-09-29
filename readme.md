@@ -11,7 +11,7 @@
     - [Le triton](part1/part1.md#le-triton)
     - [La quarte juste - Perfect Fourth](part1/part1.md#la-quarte-juste--perfect-fourth)
     - [La quinte juste - Perfect Fifth](part1/part1.md#la-quinte-juste--perfect-fifth)
-    - [Les tierces | Third](part1/part1.md#les-tierces--third)
+    - [Les tierces - Third](part1/part1.md#les-tierces--third)
 - [L'accordage de la guitare](part1/part1.md#laccordage-de-la-guitare)
     - [Comment accorder sa guitare](part1/part1.md#comment-accorder-sa-guitare)
     - [L'accordage est en quarte sauf](part1/part1.md#laccordage-est-en-quarte-sauf)
