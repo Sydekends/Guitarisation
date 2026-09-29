@@ -1,14 +1,14 @@
+---
+title: Part 2
+---
+<details markdown="block">
+<summary>(click me!)</summary>
 
+This is content inside a `<details>` dropdown.
 
-- [Les degrés](part2/part2.md#les-degrés)
-- [Les accords](part2/part2.md#les-accords)
-    - [L'accord de puissance / Power chord](part2/part2.md#laccord-de-puissance--power-chord)
-    - [Triades](part2/part2.md#triades)
-    - [Former des arpèges](part2/part2.md#former-des-arpèges)
-- [Voicings](part2/part2.md#voicings)
-    - [Positions fondamentales majeures](part2/part2.md#major-nut-voicing)
-    - [Positions fondamentales mineures](part2/part2.md#minor-nut-voicing)
-    - [Accords barrés](part2/part2.md#les-accords-barrés)
+{:toc}
+
+</details>
 
 ## La tonalité
 
