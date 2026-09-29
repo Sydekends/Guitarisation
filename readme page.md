@@ -1,3 +1,9 @@
+---
+layout: about
+title: test
+---
+
+
 ![](assets/0.0.0.intro.excalidraw.svg)
 
 # Les fondamentaux :

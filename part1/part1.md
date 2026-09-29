@@ -1,12 +1,16 @@
+---
+title: Part 1
+layout: home
+---
 - [Intervalle]
 - [Gammes](#gammes)
     - [intervalle en detail](#intervalle-en-detail)
     - [Unison](#unison)
     - [L'octave](#loctave)
     - [Le triton](#le-triton)
-    - [La quarte juste | Perfect Fourth](#la-quarte-juste--perfect-fourth)
-    - [La quinte juste | Perfect Fifth](#la-quinte-juste--perfect-fifth)
-    - [Les tierces | Third](#les-tierces--third)
+    - [La quarte juste - Perfect Fourth](#la-quarte-juste--perfect-fourth)
+    - [La quinte juste - Perfect Fifth](#la-quinte-juste--perfect-fifth)
+    - [Les tierces - Third](#les-tierces--third)
 - [L'accordage de la guitare](#laccordage-de-la-guitare)
     - [Comment accorder sa guitare](#comment-accorder-sa-guitare)
     - [L'accordage est en quarte sauf](#laccordage-est-en-quarte-sauf)
@@ -169,4 +173,4 @@ Comme vu juste au dessus, dans la gamme majeure, le triton est present comme :
 
 ---
 
-[Next](../part2/readme_tonality.md)
+[Next](../part2/readme_tonality.md){: .btn }
