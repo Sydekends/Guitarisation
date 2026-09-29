@@ -32,6 +32,46 @@ Par exemple, une chanson en do majeur repose sur les notes :
 Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V), La mineur (vi) et Si diminué (vii°). Ces noms en chiffres romains décrivent la position et la fonction de chaque accord au sein de la tonalité.
 > **En général, on prend des exemples en Do pour ne pas avoir trop de notes altéres.**
 
+## La Gamme Majeure
+
+Pour commencer, imposont nous l'harmonie de la gamme majeure.
+Trouver chaque intervalle de chaque degrés de la gamme majeure.
+
+### Tierces
+
+![](major_scale/3rd.majorscale.excalidraw.svg)
+
+> Dans la gamme majeure naturelle :
+>   - Les degrés I, IV et V sont majeurs
+>   - Les degrés ii, iii, vi et vii sont mineurs
+
+> Voir les [exos](../exercices/2/2.exo.md#tierces)
+
+### La quarte
+
+![](major_scale/4th.majorscale.excalidraw.svg)
+
+> On peux voir avec ce schema que dans la gamme majeure naturelle, le 4eme degré (IV) possede une quarte augmentée.
+
+> Voir les [exos](../exercices/2/2.exo.md#Quartes)
+
+### La quinte
+
+![](major_scale/5th.majorscale.excalidraw.svg)
+
+> On peux voir avec ce schema que dans la gamme majeure naturelle, le 7eme degré (vii) possede une quinte diminuée.
+> On note donc ce degré vii° => pour "diminué"
+
+> Voir les [exos](../exercices/2/2.exo.md#Quintes)
+
+### Triton
+Comme vu juste au dessus, dans la gamme majeure, le triton est present comme :
+
+**#4** du 4eme degré "**IV**"
+**b5** du 7eme degré "**vii**" => On le note ce degré **vii°**
+
+
+
 ## Les accords
 
 ### L'accord de puissance / Power chord
