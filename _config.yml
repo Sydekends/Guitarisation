@@ -1,5 +1,5 @@
-remote_theme: cotes2020/jekyll-theme-chirpy@latest
+remote_theme: just-the-docs/just-the-docs
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
 title: Guitar Starter Pack
-theme_mode : dark
+color_scheme: dark
