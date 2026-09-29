@@ -1,3 +1,15 @@
+
+
+- [Les degrés](part2/part2.md#les-degrés)
+- [Les accords](part2/part2.md#les-accords)
+    - [L'accord de puissance / Power chord](part2/part2.md#laccord-de-puissance--power-chord)
+    - [Triades](part2/part2.md#triades)
+    - [Former des arpèges](part2/part2.md#former-des-arpèges)
+- [Voicings](part2/part2.md#voicings)
+    - [Positions fondamentales majeures](part2/part2.md#major-nut-voicing)
+    - [Positions fondamentales mineures](part2/part2.md#minor-nut-voicing)
+    - [Accords barrés](part2/part2.md#les-accords-barrés)
+
 ## La tonalité
 
 En musique, la tonalité définit le « point d’ancrage » tonal d’un morceau. Elle comporte deux éléments principaux : la tonique et la gamme.
@@ -28,7 +40,7 @@ Do majeur (I), Ré mineur (ii), Mi mineur (iii), Fa majeur (IV), Sol majeur (V),
 ### L'accord de puissance / Power chord
 Voici l'accord avec le plus de puissance, peut etre meme trop pour sa simplicité.
 
-![](3.0.powerchords.excalidraw.svg)
+![](powerchords/powerchords.excalidraw.svg)
 
 ### Triades
 
@@ -38,18 +50,44 @@ Les triades sont les accords les plus communs dans la musique, il faut se famili
 - Minor       : 1 b3 5
     - Diminished  : 1 b3 b5
 
-![](3.1.0.triad.excalidraw.svg)
+![](triads/triads.excalidraw.svg)
 
 Voici ce que ca donne sur 3 cordes.
 
-![](3.1.2.triad.threestrings.excalidraw.svg)
+![](triads/triads.major-minor.excalidraw.svg)
 
-![](3.1.2.triad.tritone.threestrings.excalidraw.svg)
+![](triads/triads.tritone.excalidraw.svg)
 
 #### Former des arpèges
 
-![](3.1.1.triad.arpegio.excalidraw.svg)
+![](triads/arpegios/triads.arpegio.unp.excalidraw.svg)
 
-# Les fonctions des degrés de la gamme majeure.
+## Voicings
+
+L'avantage de la guitare, c'est qu'on peut jouer plusieurs notes en memes temps, autant qu'il y a de cordes.
+*ça vaux pas les dix doigts plus le paf sur le piano mais il y a du potentiel.*
+
+Il suffit de 3 cordes pour faire une triade, donc on est libre d'utiliser les cordes restantes pour repeter les notes qu'on veux.
+Il est tres commun de repeter la fondamentale et/ou la quinte des triades.
+
+> Voici les accords fondamentaux au plus haut du manche
+
+### Major Nut Voicing
+![](chords/fondamental.major.excalidraw.svg)
+
+### Minor Nut Voicing
+![](chords/fondamental.minor.excalidraw.svg)
+
+### Les accords barrés
+
+Plus haut Il manque Fa et Si (F et B)
+
+Pour Fa on peux prendre la position de Mi et de la décaler d'une case (1/2 ton)
+Pour Si on peux prendre la position de La et la décaler de deux case (1 ton)
+
+![](chords/nut.2.bar.excalidraw.svg)
+
+> Les positions d'accords A et E, Majeures comme Mineures sont décallables sur tout le manche
+> La position de D Mineur aussi. La positions majeur n'est pas ergonomique mais elle aide à visualiser les arpeges.  
+
 > TODO
-

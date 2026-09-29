@@ -1,4 +1,4 @@
-- [Intervalle](#intervalle)
+- [Intervalle]
 - [Gammes](#gammes)
     - [intervalle en detail](#intervalle-en-detail)
     - [Unison](#unison)
@@ -77,6 +77,8 @@ il possede une sonoritée dissonante
 > ⚠️ Info incroyable pour se repérer sur le manche.
 >       C'est exactement la moitié d'un octave.
 
+![](intervals/geometry/tritone.excalidraw.svg)
+
 > Voir les exos [0.X](../exercices/1/1.exo.md)
 
 
@@ -96,6 +98,9 @@ La guitare est un instrument accordé en quarte. E A D G
 ### La quinte juste | Perfect Fifth
 
 ![](intervals/5.fifth/5th.excalidraw.svg)
+
+
+![](intervals/geometry/fourth.fifth.excalidraw.svg)
 
 ### Les tierces | Third
 
@@ -120,7 +125,7 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 ![](tuning/mindfuck.excalidraw.svg)
 
-> Voir les [exos](../exercices/1/1.6.EXO.excalidraw.svg)
+<!-- > Voir les [exos](../ exercices/1/1.6.EXO.excalidraw.svg) -->
 
 ![](adjacent.geometry.excalidraw.svg)
 
@@ -137,7 +142,8 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 >   - Les degrés I, IV et V sont majeurs
 >   - Les degrés ii, iii, vi et vii sont mineurs
 
-> Voir les [exos](../exercices/2/2.exo.md#Tierces)
+> Voir les [exos](../exercices/2/2.exo.md#tierces)
+
 ### La quarte
 
 ![](major_scale/4th.majorscale.excalidraw.svg)
@@ -145,6 +151,7 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 > On peux voir avec ce schema que dans la gamme majeure naturelle, le 4eme degré (IV) possede une quarte augmentée.
 
 > Voir les [exos](../exercices/2/2.exo.md#Quartes)
+
 ### La quinte
 
 ![](major_scale/5th.majorscale.excalidraw.svg)
@@ -155,11 +162,10 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 > Voir les [exos](../exercices/2/2.exo.md#Quintes)
 
 ### Triton
+Comme vu juste au dessus, dans la gamme majeure, le triton est present comme :
 
-Dans la gamme majeure, le triton est present comme :
-
-**#4** du 4eme degré "**IV**"   
-**b5** du 7eme degré "**vii**" => On le note **vii°**
+**#4** du 4eme degré "**IV**"
+**b5** du 7eme degré "**vii**" => On le note ce degré **vii°**
 
 ---
 
