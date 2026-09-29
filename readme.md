@@ -28,3 +28,10 @@
     - [Triades](readme_tonality.md#triades)
     - [Former des arpèges](readme_tonality.md#former-des-arpèges)
 - [Les fonctions des degrés de la gamme majeure.](readme_tonality.md#les-fonctions-des-degrés-de-la-gamme-majeure)
+
+
+## Exercices
+
+- [1](exercices/1/1.exo.md)
+- [2](exercices/2/2.exo.md)
+- [3](exercices/3/3.exo.md)
