@@ -1,5 +1,6 @@
 ---
-title: idk part 3
+title: wip
+parent: Les fondamentaux
 ---
 {:toc}
 

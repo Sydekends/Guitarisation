@@ -1,14 +1,9 @@
 ---
-title: Part 2
+title: tonalite degre accord
+parent: Les fondamentaux
 ---
-<details markdown="block">
-<summary>(click me!)</summary>
-
-This is content inside a `<details>` dropdown.
-
 {:toc}
 
-</details>
 
 ## La tonalité
 

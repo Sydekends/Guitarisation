@@ -1,5 +1,6 @@
 ---
-title: Les Intervalles
+title: Intervalles Gammes
+parent: Les fondamentaux
 ---
 {:toc}
 
