@@ -1,5 +1,6 @@
 ---
 title: Les fondamentaux
+layout: home
 ---
 
 ![](assets/0.0.0.intro.excalidraw.svg)
