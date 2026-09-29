@@ -1,4 +1,3 @@
-
 - [Intervalle](#intervalle)
 - [Gammes](#gammes)
     - [intervalle en detail](#intervalle-en-detail)
@@ -16,7 +15,6 @@
     - [La quarte](#la-quarte)
     - [la quinte](#la-quinte)
     - [Triton](#triton)
-
 
 ## Intervalle
 
@@ -74,16 +72,12 @@ Un octave c'est 6 tons  / 12 demi-tons
 Comme son nom l'indique, le triton est un intervalle de 3 tons (6 demi-tons) 
 il possede une sonoritée dissonante
 
-
 ![](intervals/tritone/tritone.excalidraw.svg)
 
 > ⚠️ Info incroyable pour se repérer sur le manche.
 >       C'est exactement la moitié d'un octave.
 
-> Voir les [exos](../exercices/) !!!!!!!!!!!!! TODO triton
-
-
-> Voir les [exos](../exercices/) !!!!!!!!!!!!! TODO octave with triton
+> Voir les exos [0.X](../exercices/1/1.exo.md)
 
 
 Le triton du triton est la note de départ.
@@ -126,12 +120,9 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 > Voir les [exos](../exercices/1/1.6.EXO.excalidraw.svg)
 
-
-
 ![](tuning/adjacent.geometry.excalidraw.svg)
 
 ## La Gamme Majeure
-
 
 Pour commencer, imposont nous l'harmonie de la gamme majeure.
 Trouver chaque intervalle de chaque degrés de la gamme majeure.
@@ -160,6 +151,7 @@ Trouver chaque intervalle de chaque degrés de la gamme majeure.
 > On note donc ce degré vii° => pour "diminué"
 
 > Voir les [exos](../exercices/2/2.exo.md#Quintes)
+
 ### Triton
 
 Dans la gamme majeure, le triton est present comme :

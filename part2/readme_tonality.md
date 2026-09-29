@@ -44,6 +44,8 @@ Voici ce que ca donne sur 3 cordes.
 
 ![](3.1.2.triad.threestrings.excalidraw.svg)
 
+![](3.1.2.triad.tritone.threestrings.excalidraw.svg)
+
 #### Former des arpèges
 
 ![](3.1.1.triad.arpegio.excalidraw.svg)
