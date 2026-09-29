@@ -21,13 +21,13 @@
     - [la quinte](part1/part1_interval.md#la-quinte)
     - [Triton](part1/part1_interval.md#triton)
 
-## [Tonalité](readme_tonality.md)
-- [Les degrés](readme_tonality.md#les-degrés)
-- [Les accords](readme_tonality.md#les-accords)
-    - [L'accord de puissance / Power chord](readme_tonality.md#laccord-de-puissance--power-chord)
-    - [Triades](readme_tonality.md#triades)
-    - [Former des arpèges](readme_tonality.md#former-des-arpèges)
-- [Les fonctions des degrés de la gamme majeure.](readme_tonality.md#les-fonctions-des-degrés-de-la-gamme-majeure)
+## [Tonalité](part2/readme_tonality.md)
+- [Les degrés](part2/readme_tonality.md#les-degrés)
+- [Les accords](part2/readme_tonality.md#les-accords)
+    - [L'accord de puissance / Power chord](part2/readme_tonality.md#laccord-de-puissance--power-chord)
+    - [Triades](part2/readme_tonality.md#triades)
+    - [Former des arpèges](part2/readme_tonality.md#former-des-arpèges)
+- [Les fonctions des degrés de la gamme majeure.](part2/readme_tonality.md#les-fonctions-des-degrés-de-la-gamme-majeure)
 
 
 ## Exercices
