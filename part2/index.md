@@ -1,5 +1,5 @@
 ---
-title: tonalite degre accord
+title: Harmonie
 parent: Les fondamentaux
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: wip
+nav_exclude: true
 parent: Les fondamentaux
 ---
 {:toc}

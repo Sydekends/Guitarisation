@@ -1,5 +1,5 @@
 ---
-title: Intervalles Gammes
+title: Intervalles
 parent: Les fondamentaux
 ---
 
@@ -159,4 +159,4 @@ Comme vu juste au dessus, dans la gamme majeure, le triton est present comme :
 
 ---
 
-[Next](../part2/readme_tonality.md){: .btn }
+[Next](../part2/index.md){: .btn }
