@@ -2,8 +2,9 @@
 title: tonalite degre accord
 parent: Les fondamentaux
 ---
-{:toc}
 
+- TOC
+{:toc}
 
 ## La tonalité
 

@@ -2,6 +2,8 @@
 title: Intervalles Gammes
 parent: Les fondamentaux
 ---
+
+- TOC
 {:toc}
 
 ## Intervalle
