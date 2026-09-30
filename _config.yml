@@ -9,9 +9,27 @@ favicon_ico: "/assets/guitar.excalidraw.svg"
 aux_links:
   "GitHub":
     - "//github.com/Sydekends/Guitarisation"
-  "Theory mt21c" :
-    - "//musictheory.pugetsound.edu/"
-  "Advancing Music Theory" :
-    - "//tobyrush.com/theorywiki/"
 
 aux_links_new_tab: true
+
+
+nav_external_links:
+  - title : LightNote
+    url : //www.lightnote.co
+  - title: Theory mt21c
+    url: //musictheory.pugetsound.edu
+  - title : muted.io
+    url: //muted.io
+  - title : Chromatone
+    url : //chromatone.center
+  - title : Simplifyingtheory
+    url : //www.simplifyingtheory.com
+  - title: Advancing Music Theory
+    url: //tobyrush.com/theorywiki
+  - title : FMHY
+    url : //fmhy.net/educational#music
+
+# "Theory mt21c" :
+#   - "//musictheory.pugetsound.edu/"
+# "Advancing Music Theory" :
+#   - "//tobyrush.com/theorywiki/"
