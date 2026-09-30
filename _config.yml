@@ -6,3 +6,8 @@ color_scheme: dark
 
 logo: "/assets/intro.excalidraw.svg"
 favicon_ico: "/assets/guitar.excalidraw.svg"
+aux_links:
+  "GitHub":
+    - "//github.com/Sydekends/Guitarisation"
+
+aux_links_new_tab: true
