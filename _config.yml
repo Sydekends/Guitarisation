@@ -9,5 +9,9 @@ favicon_ico: "/assets/guitar.excalidraw.svg"
 aux_links:
   "GitHub":
     - "//github.com/Sydekends/Guitarisation"
+  "Theory mt21c" :
+    - "//musictheory.pugetsound.edu/"
+  "Advancing Music Theory" :
+    - "//tobyrush.com/theorywiki/"
 
 aux_links_new_tab: true
