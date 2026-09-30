@@ -2,6 +2,7 @@
 title: Harmonie
 parent: Les fondamentaux
 nav_order: 2
+back_to_top: true
 ---
 
 - TOC
