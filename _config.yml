@@ -4,7 +4,7 @@ plugins:
 title: Guitar Starter Pack
 color_scheme: dark
 
-logo: "/assets/intro.excalidraw.svg"
+# logo: "/assets/intro.excalidraw.svg"
 favicon_ico: "/assets/guitar.excalidraw.svg"
 aux_links:
   "GitHub":
@@ -15,21 +15,16 @@ aux_links_new_tab: true
 
 nav_external_links:
   - title : LightNote
-    url : //www.lightnote.co
+    url : https://www.lightnote.co
   - title: Theory mt21c
-    url: //musictheory.pugetsound.edu
+    url: https://musictheory.pugetsound.edu
   - title : muted.io
-    url: //muted.io
+    url: https://muted.io
   - title : Chromatone
-    url : //chromatone.center
+    url : https://chromatone.center
   - title : Simplifyingtheory
-    url : //www.simplifyingtheory.com
+    url : https://www.simplifyingtheory.com
   - title: Advancing Music Theory
-    url: //tobyrush.com/theorywiki
+    url: https://tobyrush.com/theorywiki
   - title : FMHY
-    url : //fmhy.net/educational#music
-
-# "Theory mt21c" :
-#   - "//musictheory.pugetsound.edu/"
-# "Advancing Music Theory" :
-#   - "//tobyrush.com/theorywiki/"
+    url : https://fmhy.net/educational#music
