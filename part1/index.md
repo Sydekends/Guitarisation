@@ -122,7 +122,7 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 ## Les complements d'intervalles
 
-![](../exercices/intervals.complement.excalidraw.svg)
+![](intervals/intervals.complement.excalidraw.svg)
 
 ---
 
