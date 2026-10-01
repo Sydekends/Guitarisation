@@ -120,6 +120,10 @@ La tierce majeure G-B est un bon compromis: elle resserre légèrement l'écart 
 
 ![](adjacent.geometry.excalidraw.svg)
 
+## Les complements d'intervalles
+
+![](../exercices/intervals.complement.excalidraw.svg)
+
 ---
 
-[Next](../part2/index.md){: .btn }
+[Next](../part2){: .btn }
