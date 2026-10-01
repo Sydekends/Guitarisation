@@ -10,25 +10,49 @@ nav_order: 0
 ## Intervalle
 
 Un intervalle est la différence de hauteur entre deux notes — en d’autres termes, la distance qui les sépare. Ce sont les intervalles qui donnent leur forme aux mélodies et leur sonorité aux accords.
-On décrit les intervalles de deux façons : par leur ampleur (le nombre de notes qui les séparent) et par leur qualité (qui leur confère leur sonorité spécifique, comme majeur, mineur, diminué ou augmenté).
+On décrit les intervalles de deux façons : par leur tailles (le nombre de notes qui les séparent) et par leur qualité (qui leur confère leur sonorité spécifique, comme majeur, mineur, diminué ou augmenté).
 
-Par exemple, l’intervalle entre le do et le mi s’appelle une tierce majeure. On l’appelle « tierce » car il couvre trois degrés de la gamme (do, ré, mi — degrés 1 à 3), et « majeure » parce que les notes sont séparées de quatre demi-tons, ce qui lui confère une sonorité claire et consonante.
+Par exemple, l’intervalle entre le **Do** et le **Mi** s’appelle une *tierce majeure*. On l’appelle *« tierce »* car il couvre trois *degrés* de la gamme (do, ré, mi — degrés 1 à 3), et « majeure » parce que les notes sont séparées de quatre demi-tons, ce qui lui confère une sonorité claire et consonante.
 
-Les intervalles se mesurent en demi-tons : la plus petite distance entre deux notes sur un piano. Un demi-ton correspond à la distance entre une touche et la suivante (noire ou blanche). Deux demi-tons forment un ton.
+Les intervalles se mesurent en demi-tons : la plus petite distance entre deux notes sur un piano. Un demi-ton correspond à la distance entre une touche et la suivante (noire ou blanche), à la guitare, c'est une case. Deux demi-tons forment un ton.
 
 ![](intervals/intervals.excalidraw.svg)
 
+Les notes « naturelles » (Do, Ré, Mi, Fa, Sol, La, Si) correspondent aux touches blanches du piano. Les autres sont des notes altérées : un dièse (♯) monte la note d'un demi-ton, un bémol (♭) la descend d'un demi-ton. Une même note peut donc avoir deux noms (Do♯ = Ré♭).
+
 ![](notes/notes.excalidraw.svg)
 
-> Une guitare, c'est comme si plusieurs pianos etaient empilés, mais les cordes ne mettent pas en evidence les touches noires.
+> Une corde de guitare, c'est comme un clavier de piano où toutes les touches (blanches comme noires) sont identiques : une case = un demi-ton. 
 
-Voici comment poser les notes sur la guitare
+>Les cordes sont en plus décalées les unes par rapport aux autres, comme des claviers empilés en décalés. Sur le manche, rien ne distingue les notes altérées : il faut apprendre à les repérer
+
+Voici comment placer les notes sur la guitare :
 
 ![](notes/piano_on_guitar.excalidraw.svg)
 
+🎯 À toi de jouer
+
+📝 Combien de demi-tons y a-t-il dans une tierce mineure ? une quarte juste ? une quinte juste ? une sixte majeure ? une septième mineure ?
+📝 Quelle note se trouve un demi-ton au-dessus de Mi ? Et au-dessus de Si ?
+🎸 Prends la corde de La à vide et monte case par case jusqu'à la case 12, en nommant chaque note à voix haute. Que se passe-t-il à la case 12 ?
+ 
+<details> <summary>Réponses</summary>
+3, 5, 7, 9 et 10 demi-tons.
+Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
+La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
+</details>
+
 ## Gammes
 
-Les gammes sont des ensembles de notes qui constituent la base des mélodies et des accords en musique. La plus connue est la gamme majeure : une série de sept notes qui suivent un schéma spécifique d’intervalles (écarts entre les notes). Ce schéma confère à la gamme majeure sa sonorité claire et familière, et est utilisé dans d’innombrables chansons populaires.
+Une gamme est un ensemble de notes qui sert de base aux mélodies aux accords. La plus connue est la **gamme majeure** : sept notes qui suivent un schéma spécifique d’intervalles (écarts entre les notes). Ce schéma lui donne sa sonorité claire et familière, utilisée dans d’innombrables chansons.
+
+> **La gamme majeure est notre référence.** Tous les intervalles sont nommés par rapport à elle. 
+
+Depuis la première note (la fondamentale, degré 1), les degrés 2, 3, 6 et 7 forment des intervalles majeurs, et les degrés 4, 5 et 8 des intervalles justes. Les autres s'obtiennent en ajoutant ou en retirant un demi-ton : mineur = majeur − 1 demi-ton ; diminué = juste − 1 demi-ton ; augmenté = juste (ou majeur) + 1 demi-ton.
+
+Degrés : 1 2 34 5 6 71
+
+Voici la gamme majeure, avec le nombre de demi-tons entre chaque note. Au piano, on l'obtient en jouant uniquement les touches blanches. Entre deux notes consécutives, il y a un ton (2 demi-tons), sauf entre Mi et Fa et entre Si et Do, où il n'y a qu'un demi-ton. Au total : 5 tons et 2 demi-tons, soit 12 demi-tons.
 
 > *La gamme majeure* sert de references à toutes les observations que l'on peut faire sur la musique. 
 > C'est elle qu'on a defini sans alteration. 1 2 34 5 6 71
