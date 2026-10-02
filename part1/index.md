@@ -34,19 +34,19 @@ Voici comment placer les notes sur la guitare :
 
 🎯 À toi de jouer
 
-📝 Combien de demi-tons y a-t-il dans une tierce mineure ? une quarte juste ? une quinte juste ? une sixte majeure ? une septième mineure ?
+- 📝 Combien de demi-tons y a-t-il dans une tierce mineure ? une quarte juste ? une quinte juste ? une sixte majeure ? une septième mineure ?
 
-📝 Quelle note se trouve un demi-ton au-dessus de Mi ? Et au-dessus de Si ?
+- 📝 Quelle note se trouve un demi-ton au-dessus de Mi ? Et au-dessus de Si ?
 
-🎸 Prends la corde de La à vide et monte case par case jusqu'à la case 12, en nommant chaque note à voix haute. Que se passe-t-il à la case 12 ?
+- 🎸 Prends la corde de La à vide et monte case par case jusqu'à la case 12, en nommant chaque note à voix haute. Que se passe-t-il à la case 12 ?
 
 <details> <summary>Réponses</summary>
 
-📝 3, 5, 7, 9 et 10 demi-tons.
+- 📝 3, 5, 7, 9 et 10 demi-tons.
 
-📝 Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
+- 📝 Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
 
-🎸 La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
+- 🎸 La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
 </details></details>
 
 ## Gammes
