@@ -31,18 +31,23 @@ Voici comment placer les notes sur la guitare :
 ![](notes/piano_on_guitar.excalidraw.svg)
 
 <details> <summary>Questions ?</summary>
+
 🎯 À toi de jouer
 
 📝 Combien de demi-tons y a-t-il dans une tierce mineure ? une quarte juste ? une quinte juste ? une sixte majeure ? une septième mineure ?
+
 📝 Quelle note se trouve un demi-ton au-dessus de Mi ? Et au-dessus de Si ?
+
 🎸 Prends la corde de La à vide et monte case par case jusqu'à la case 12, en nommant chaque note à voix haute. Que se passe-t-il à la case 12 ?
 
 <details> <summary>Réponses</summary>
-3, 5, 7, 9 et 10 demi-tons.
-Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
-La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
-</details>
-</details>
+
+📝 3, 5, 7, 9 et 10 demi-tons.
+
+📝 Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
+
+🎸 La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
+</details></details>
 
 ## Gammes
 
@@ -68,13 +73,19 @@ Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 
 🎯 À toi de jouer
 <details> <summary>Questions ?</summary>
+
 📝 Écris la gamme de Sol majeur avec la formule. Quelle note est altérée ?
+
 🔥 Défi : décale cette même forme de 2 cases (départ case 5). Quelle gamme joues-tu ?
+
 🔥 Défi : écris la gamme de Si♭ majeur. Combien de notes sont altérées ?
 <details> <summary>Réponses</summary>
-Sol – La – Si – Do – Ré – Mi – Fa♯ : seul le Fa est altéré.
-Ré majeur (Ré – Mi – Fa♯ – Sol – La – Si – Do♯), cases 5, 7, 9, 10, 12, 14, 16, 17.
-Si♭ – Do – Ré – Mi♭ – Fa – Sol – La : deux notes altérées (Si♭ et Mi♭).
+
+📝 Sol – La – Si – Do – Ré – Mi – Fa♯ : seul le Fa est altéré.
+
+🔥 Ré majeur (Ré – Mi – Fa♯ – Sol – La – Si – Do♯), cases 5, 7, 9, 10, 12, 14, 16, 17.
+
+🔥 Si♭ – Do – Ré – Mi♭ – Fa – Sol – La : deux notes altérées (Si♭ et Mi♭).
 </details></details>
 
 ## Intervalle en detail
@@ -94,12 +105,17 @@ Un octave c'est 6 tons  / 12 demi-tons
 🎯 À toi de jouer
 
 🎸 Joue le Sol à vide (corde de Sol). Retrouve ce même Sol sur les autres cordes.
+
 🎸 Joue le Do de la corde de La (case 3). Retrouve son octave avec la règle « deux cordes plus aiguës, deux cases plus loin ».
+
 🔥 Défi : joue le Ré de la corde de Ré à vide, puis trouve son octave sur la corde de Si. De combien de cases faut-il se décaler, et pourquoi ?
 <details> <summary>Réponses</summary>
-Corde de Ré case 5, corde de La case 10, corde de Mi grave case 15.
-Corde de Sol, case 5.
-3 cases (corde de Si, case 3). Entre Sol et Si, les cordes sont espacées d'un demi-ton de moins que d'habitude (4 au lieu de 5), donc il faut une case de plus pour compenser.
+
+🎸 Corde de Ré case 5, corde de La case 10, corde de Mi grave case 15.
+
+🎸 Corde de Sol, case 5.
+
+🔥 3 cases (corde de Si, case 3). Entre Sol et Si, les cordes sont espacées d'un demi-ton de moins que d'habitude (4 au lieu de 5), donc il faut une case de plus pour compenser.
 </details></details>
 
 
@@ -125,15 +141,21 @@ un demi-ton de moins que le triton (5 demi-tons), c'est une quarte juste ;
 un demi-ton de plus que le triton (7 demi-tons), c'est une quinte juste.
 
 <details> <summary>Questions ?</summary>
+
 🎯 À toi de jouer
 
 📝 Quel est le triton de Do ? de Mi ? de Si ?
+
 📝 Dans la gamme de Do majeur, quelles deux notes forment un triton ?
+
 🎸 Joue la corde de La à vide, puis la case 6 de la même corde. Retrouve cette note sur la corde de Ré. Quelle règle observes-tu entre deux cordes voisines ?
 <details> <summary>Réponses</summary>
-Fa♯ (ou Sol♭), La♯ (ou Si♭), Fa.
-Fa et Si (degrés 4 et 7). C'est le seul triton de la gamme majeure.
-Case 1 de la corde de Ré (Ré♯/Mi♭). D'une corde à la corde aiguë voisine, le triton se trouve une case plus loin (deux cases entre Sol et Si).
+
+📝 Fa♯ (ou Sol♭), La♯ (ou Si♭), Fa.
+
+📝 Fa et Si (degrés 4 et 7). C'est le seul triton de la gamme majeure.
+
+🎸 Case 1 de la corde de Ré (Ré♯/Mi♭). D'une corde à la corde aiguë voisine, le triton se trouve une case plus loin (deux cases entre Sol et Si).
 </details></details>
 
 ### La quarte juste | Perfect Fourth
@@ -158,12 +180,17 @@ La quinte juste fait 7 demi-tons (3,5 tons). Elle complète la quarte : quarte +
 🎯 À toi de jouer
 
 📝 Donne la quarte juste et la quinte juste au-dessus de Do, de Fa et de Si.
+
 🎸 Joue le Sol de la corde de Mi grave (case 3). Trouve sa quinte juste avec la règle des « 2 cases plus loin ».
+
 🔥 Défi : pars du Do de la corde de La (case 3). Monte d'une quinte, puis d'une quarte. Où arrives-tu ?
 <details> <summary>Réponses</summary>
-Do : Fa et Sol. Fa : Si♭ et Do. Si : Mi et Fa♯.
-Corde de La, case 5 : c'est un Ré.
-Quinte : Sol (corde de Ré, case 5), puis quarte : Do (corde de Sol, case 5). Tu retombes sur le Do, une octave plus haut.
+
+📝 Do : Fa et Sol. Fa : Si♭ et Do. Si : Mi et Fa♯.
+
+🎸 Corde de La, case 5 : c'est un Ré.
+
+🔥 Quinte : Sol (corde de Ré, case 5), puis quarte : Do (corde de Sol, case 5). Tu retombes sur le Do, une octave plus haut.
 </details></details>
 
 
@@ -185,12 +212,17 @@ La tierce mineure est une tierce majeure resserrée d'un demi-ton. C'est elle qu
 🎯 À toi de jouer
 
 📝 Donne la tierce majeure et la tierce mineure au-dessus de Do, de La et de Sol.
+
 🎸 Joue le Do de la corde de La (case 3), puis la case 7, puis la case 6. Laquelle des deux notes sonne la plus lumineuse ? La plus sombre ?
+
 🔥 Défi : empile une tierce majeure et une tierce mineure. Quel intervalle obtiens-tu ? Et dans l'autre ordre ?
 <details markdown="1"> <summary>Réponses</summary>
-Do : Mi et Mi♭. La : Do♯ et Do. Sol : Si et Si♭.
-La case 7 (Mi, tierce majeure) est la plus lumineuse. La case 6 (Mi♭, tierce mineure) est la plus sombre.
-Une quinte juste dans les deux cas : 4 + 3 = 3 + 4 = 7 demi-tons.
+
+📝 Do : Mi et Mi♭. La : Do♯ et Do. Sol : Si et Si♭.
+
+🎸 La case 7 (Mi, tierce majeure) est la plus lumineuse. La case 6 (Mi♭, tierce mineure) est la plus sombre.
+
+🔥 Une quinte juste dans les deux cas : 4 + 3 = 3 + 4 = 7 demi-tons.
 </details></details>
 
 ## L'accordage de la guitare 
@@ -223,8 +255,6 @@ Parce que Sol → Si est une tierce majeure (4 demi-tons) et non une quarte just
 Du Ré au La, il y a 7 demi-tons : une quinte juste.
 </details></details>
 
----
-
 ## Les complements d'intervalles
 
 Le complément d'un intervalle (on parle aussi de renversement) est ce qui lui manque pour faire une octave. Si tu montes d'un intervalle, puis de son complément, tu retombes sur la même note, une octave plus haut : les deux intervalles font toujours 12 demi-tons à eux deux.
@@ -234,11 +264,7 @@ majeur ↔ mineur ; juste ↔ juste ; augmenté ↔ diminué (le triton est donc
 
 On peut ainsi retrouver la quarte en reculant d'une quinte, et la quinte en reculant d'une quarte. On peut aussi atteindre la quinte en empilant une tierce majeure et une tierce mineure (ou l'inverse).
 
-
 ![](intervals/intervals.complement.excalidraw.svg)
-
-
-
 
 <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
@@ -246,10 +272,10 @@ On peut ainsi retrouver la quarte en reculant d'une quinte, et la quinte en recu
 📝 Quel est le complément d'une tierce majeure ? d'une quarte juste ? d'une septième mineure ? du triton ?
 🔥 Défi : pars du Do, monte d'une tierce mineure, puis d'une sixte majeure. Où arrives-tu ?
 <details markdown="1"> <summary>Réponses</summary>
-Sixte mineure (4 + 8 = 12), quinte juste, seconde majeure (10 + 2 = 12), triton.
-Do (3 + 9 = 12) : Do → Mi♭ → Do à l'octave.
-</details>
-</details>
+
+📝 Sixte mineure (4 + 8 = 12), quinte juste, seconde majeure (10 + 2 = 12), triton.
+🔥 Do (3 + 9 = 12) : Do → Mi♭ → Do à l'octave.
+</details></details>
 
 ---
 
