@@ -30,7 +30,7 @@ Voici comment placer les notes sur la guitare :
 
 ![](notes/piano_on_guitar.excalidraw.svg)
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 
 🎯 À toi de jouer
 
@@ -47,7 +47,7 @@ Voici comment placer les notes sur la guitare :
 - 📝 Fa et Do : il n'y a pas de note altérée entre Mi et Fa, ni entre Si et Do.
 
 - 🎸 La, La♯/Si♭, Si, Do, Do♯/Ré♭, Ré, Ré♯/Mi♭, Mi, Fa, Fa♯/Sol♭, Sol, Sol♯/La♭, puis La à la case 12 : c'est la même note, une octave plus haut.
-</details></details>
+</details></details> -->
 
 ## Gammes
 
@@ -71,8 +71,8 @@ Tu peux construire une gamme majeure à partir de n'importe quelle note. Elle ga
 
 Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 
+<!-- <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
-<details> <summary>Questions ?</summary>
 
 📝 Écris la gamme de Sol majeur avec la formule. Quelle note est altérée ?
 
@@ -86,7 +86,7 @@ Si ya un truc a retenir c'est le patern : TON,TON,demi-ton,TON,TON,TON,demi-ton
 🔥 Ré majeur (Ré – Mi – Fa♯ – Sol – La – Si – Do♯), cases 5, 7, 9, 10, 12, 14, 16, 17.
 
 🔥 Si♭ – Do – Ré – Mi♭ – Fa – Sol – La : deux notes altérées (Si♭ et Mi♭).
-</details></details>
+</details></details> -->
 
 ## Intervalle en detail
 
@@ -100,7 +100,7 @@ Un octave c'est 6 tons  / 12 demi-tons
 
 ![](intervals/0.octave/8th.excalidraw.svg)
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 
 🎯 À toi de jouer
 
@@ -116,7 +116,7 @@ Un octave c'est 6 tons  / 12 demi-tons
 🎸 Corde de Sol, case 5.
 
 🔥 3 cases (corde de Si, case 3). Entre Sol et Si, les cordes sont espacées d'un demi-ton de moins que d'habitude (4 au lieu de 5), donc il faut une case de plus pour compenser.
-</details></details>
+</details></details> -->
 
 
 ### Le triton
@@ -140,7 +140,7 @@ Le triton se place entre la quarte juste et la quinte juste :
 un demi-ton de moins que le triton (5 demi-tons), c'est une quarte juste ;
 un demi-ton de plus que le triton (7 demi-tons), c'est une quinte juste.
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 
 🎯 À toi de jouer
 
@@ -156,7 +156,7 @@ un demi-ton de plus que le triton (7 demi-tons), c'est une quinte juste.
 📝 Fa et Si (degrés 4 et 7). C'est le seul triton de la gamme majeure.
 
 🎸 Case 1 de la corde de Ré (Ré♯/Mi♭). D'une corde à la corde aiguë voisine, le triton se trouve une case plus loin (deux cases entre Sol et Si).
-</details></details>
+</details></details> -->
 
 ### La quarte juste | Perfect Fourth
 
@@ -176,7 +176,7 @@ La quinte juste fait 7 demi-tons (3,5 tons). Elle complète la quarte : quarte +
 
 ![](intervals/geometry/fourth.fifth.excalidraw.svg)
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
 
 📝 Donne la quarte juste et la quinte juste au-dessus de Do, de Fa et de Si.
@@ -191,7 +191,7 @@ La quinte juste fait 7 demi-tons (3,5 tons). Elle complète la quarte : quarte +
 🎸 Corde de La, case 5 : c'est un Ré.
 
 🔥 Quinte : Sol (corde de Ré, case 5), puis quarte : Do (corde de Sol, case 5). Tu retombes sur le Do, une octave plus haut.
-</details></details>
+</details></details> -->
 
 
 ### Les tierces | Third
@@ -208,7 +208,7 @@ La tierce mineure est une tierce majeure resserrée d'un demi-ton. C'est elle qu
 ![](intervals/3.third/3rd.recap.excalidraw.svg)
 
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
 
 📝 Donne la tierce majeure et la tierce mineure au-dessus de Do, de La et de Sol.
@@ -223,7 +223,7 @@ La tierce mineure est une tierce majeure resserrée d'un demi-ton. C'est elle qu
 🎸 La case 7 (Mi, tierce majeure) est la plus lumineuse. La case 6 (Mi♭, tierce mineure) est la plus sombre.
 
 🔥 Une quinte juste dans les deux cas : 4 + 3 = 3 + 4 = 7 demi-tons.
-</details></details>
+</details></details> -->
 
 ## L'accordage de la guitare 
 
@@ -243,9 +243,8 @@ Pourquoi cette exception ? C'est un compromis. Si toutes les cordes étaient acc
 
 ![](tuning/mindfuck.excalidraw.svg)
 
-Show Image
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
 
 🎸 Accorde ta guitare avec la méthode de la case 5. Pourquoi faut-il appuyer sur la case 4, et non 5, pour passer du Sol au Si ?
@@ -253,7 +252,7 @@ Show Image
 <details markdown="1"> <summary>Réponses</summary>
 Parce que Sol → Si est une tierce majeure (4 demi-tons) et non une quarte juste (5 demi-tons).
 Du Ré au La, il y a 7 demi-tons : une quinte juste.
-</details></details>
+</details></details> -->
 
 ## Les complements d'intervalles
 
@@ -266,7 +265,7 @@ On peut ainsi retrouver la quarte en reculant d'une quinte, et la quinte en recu
 
 ![](intervals/intervals.complement.excalidraw.svg)
 
-<details> <summary>Questions ?</summary>
+<!-- <details> <summary>Questions ?</summary>
 🎯 À toi de jouer
 
 📝 Quel est le complément d'une tierce majeure ? d'une quarte juste ? d'une septième mineure ? du triton ?
@@ -275,7 +274,7 @@ On peut ainsi retrouver la quarte en reculant d'une quinte, et la quinte en recu
 
 📝 Sixte mineure (4 + 8 = 12), quinte juste, seconde majeure (10 + 2 = 12), triton.
 🔥 Do (3 + 9 = 12) : Do → Mi♭ → Do à l'octave.
-</details></details>
+</details></details> -->
 
 ---
 
